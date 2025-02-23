@@ -20,6 +20,10 @@
 ![extending-a-theme](/05.png)
 ![extending-a-theme](/06.png)
 ![extending-a-theme](/07.png)
-![extending-a-theme](/xiaomage.jpg)
+# 产品体验
+
+如果你对本项目感兴趣，项目合作、体验请联系微信
+
+![extending-a-theme](/wx.png)
 
 
